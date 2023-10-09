@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @JonathanLase
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Front-end Web Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Back-end Web Development.
 
 <!---
 JonathanLase/JonathanLase is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
